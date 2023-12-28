@@ -1,0 +1,7 @@
+CCTV,#genre#
+CCTV1,http://cfss.cc/ds/ysp/qp.php?id=cctv1&key=21536&Cf.m3u8
+CCTV4,http://cfss.cc/ds/ysp/qp.php?id=cctv4&key=21536&Cf.m3u8
+CCTV9,http://cfss.cc/ds/ysp/qp.php?id=cctv9&key=21536&Cf.m3u8
+CCTV10,http://cfss.cc/ds/ysp/qp.php?id=cctv10&key=21536&Cf.m3u8
+CCTV13,http://cfss.cc/ds/ysp/qp.php?id=cctv13&key=21536&Cf.m3u8
+
